@@ -32,7 +32,8 @@ TecWolf  shall at all times retain ownership of the Software as originally downl
 
 TecWolf  reserves the right to grant licences to use the Software to third parties.
 
-Author: Naty - http://lattes.cnpq.br/1518237524711568
+Author: Natalia R. Moura - http://lattes.cnpq.br/1518237524711568
+aka. Naty
 
 ### Termination
 
